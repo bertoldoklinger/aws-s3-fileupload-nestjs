@@ -36,7 +36,7 @@ Here's an example of how to do this in a terminal:
 
 ```bash
 cp .env.example .env
-
+```
 
 ## Installation
 
